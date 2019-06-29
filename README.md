@@ -1,3 +1,25 @@
+# Microsoft Project Acoustics
+This repository provides a communication channel for customers using
+the [Project Acoustics](https://aka.ms/acoustics).
+
+* [Issue Tracking](https://github.com/microsoft/ProjectAcoustics/issues)
+    * [Notices](https://github.com/microsoft/ProjectAcoustics/labels/notice)
+    * [Known issues](https://github.com/microsoft/ProjectAcoustics/labels/known%20issue)
+    * [Questions](https://github.com/microsoft/ProjectAcoustics/labels/question)
+    
+## Downloads
+
+* [Unity plug-in Download](https://www.microsoft.com/en-us/download/details.aspx?id=57346)
+* [Unreal+Wwise plug-in Download](https://www.microsoft.com/en-us/download/details.aspx?id=58090)
+
+## Resources
+
+### About
+
+* [Technical overview](https://docs.microsoft.com/en-us/azure/cognitive-services/acoustics/what-is-acoustics)
+* [Making Waves with Triton](https://youtu.be/pIzwo-MxCC8)
+
+* * *
 
 # Contributing
 
