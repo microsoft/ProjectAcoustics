@@ -28,7 +28,7 @@ What’s new in Project Acoustics version 1.1:
 
 ## Resources
 
-* The GDC 2019 Session on Project Acoustics: https://www.youtube.com/watch?v=uY4G-GUAQIE&feature=youtu.be&list=PLRs2lXTYCDQ3q9WF-4aO2SgCCCL6rSmA6 
+* [The GDC 2019 Session on Project Acoustics](https://www.youtube.com/watch?v=uY4G-GUAQIE&feature=youtu.be&list=PLRs2lXTYCDQ3q9WF-4aO2SgCCCL6rSmA6)
 
 ### About
 
