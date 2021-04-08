@@ -8,18 +8,9 @@ the [Project Acoustics](https://aka.ms/acoustics).
     * [Questions](https://github.com/microsoft/ProjectAcoustics/labels/question)
     
 ## RELEASE UPDATE:
-We’d like to announce Project Acoustics version v1.1 with plugin support for Unity and Unreal+Wwise.
-This update incorporates some of the great user feedback we’ve received since GDC 2019 and enables some exciting new features.
-
-What’s new in Project Acoustics version 1.1:
-* Unity MacOS support – design and deliver great acoustics on Mac.
-* Unity performance improvements – faster bake preparation on Unity. 
-* Runtime DSP performance improvements - high quality HRTF rendering at a lower CPU cost.
-* Azure Batch VM compute pool utilization improvements – faster acoustics bakes.
-* Support for streaming simulation results from disk in Unity – lower runtime memory cost.
-* Unreal Engine 4.22 support
-* Wwise 2019 support
-* Wwise UWP support
+We're happy to announce that a new version of Project Acoustics is available! It includes many bug fixes and new features.
+We will be updating our documentation and publishing a blog in the coming weeks with more information about all the new features.
+If you're anxious to try it out right away, you can grab version 2.0 from the links below. Thanks for using Project Acoustics!
 
 ## Downloads
 
