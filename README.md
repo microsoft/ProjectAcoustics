@@ -1,16 +1,15 @@
 # Microsoft Project Acoustics
-This repository provides a communication channel for customers using
-the [Project Acoustics](https://aka.ms/acoustics).
+This repository provides a communication channel for customers using [Project Acoustics](https://aka.ms/acoustics).
 
 * [Issue Tracking](https://github.com/microsoft/ProjectAcoustics/issues)
     * [Notices](https://github.com/microsoft/ProjectAcoustics/labels/notice)
     * [Known issues](https://github.com/microsoft/ProjectAcoustics/labels/known%20issue)
     * [Questions](https://github.com/microsoft/ProjectAcoustics/labels/question)
     
-## RELEASE UPDATE:
+## RELEASE UPDATE (April 8, 2021):
 We're happy to announce that a new version of Project Acoustics is available! It includes many bug fixes and new features.
 We will be updating our documentation and publishing a blog in the coming weeks with more information about all the new features.
-If you're anxious to try it out right away, you can grab version 2.0 from the links below. Thanks for using Project Acoustics!
+If you're interested in trying it out right away, you can grab version 2.0 from the links below. Thanks for using Project Acoustics!
 
 ## Downloads
 
@@ -20,10 +19,11 @@ If you're anxious to try it out right away, you can grab version 2.0 from the li
 ## Resources
 
 * [The GDC 2019 Session on Project Acoustics](https://www.youtube.com/watch?v=uY4G-GUAQIE&feature=youtu.be&list=PLRs2lXTYCDQ3q9WF-4aO2SgCCCL6rSmA6)
+* [Mixed Reality Dev Days 2020 Session on Project Acoustics with HoloLens 2](https://channel9.msdn.com/Shows/Mixed-Reality/Using-Project-Acoustics-with-HoloLens-2)
 
 ### About
 
-* [Technical overview](https://docs.microsoft.com/en-us/azure/cognitive-services/acoustics/what-is-acoustics)
+* [Technical overview](https://docs.microsoft.com/en-us/gaming/acoustics/what-is-acoustics)
 * [Making Waves with Triton](https://youtu.be/pIzwo-MxCC8)
 
 * * *
