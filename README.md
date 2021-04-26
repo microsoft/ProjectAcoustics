@@ -7,9 +7,15 @@ This repository provides a communication channel for customers using [Project Ac
     * [Questions](https://github.com/microsoft/ProjectAcoustics/labels/question)
     
 ## RELEASE UPDATE (April 8, 2021):
-We're happy to announce that a new version of Project Acoustics is available! It includes many bug fixes and new features.
-We will be updating our documentation and publishing a blog in the coming weeks with more information about all the new features.
-If you're interested in trying it out right away, you can grab version 2.0 from the links below. Thanks for using Project Acoustics!
+We're happy to announce that a new version of Project Acoustics is available! It includes many bug fixes and new features. The documentation has been updated at http://aka.ms/acoustics with information about new features and beta features. Here's a few highlights:
+
+* Faster bake times and support for larger map sizes
+* Unreal Engine:
+  * Increased control over probe layout with manual probe placement
+  * More control over acoustics metadata with additional probe volumes
+* Unity plus Wwise Integration Beta
+* Various bug fixes and performance improvements
+We'll be publishing a blog in the coming weeks with more information about all the new features. You can find version 2.0 from the links below. Thanks for using Project Acoustics!
 
 ## Downloads
 
