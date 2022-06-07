@@ -6,16 +6,21 @@ This repository provides a communication channel for customers using [Project Ac
     * [Known issues](https://github.com/microsoft/ProjectAcoustics/labels/known%20issue)
     * [Questions](https://github.com/microsoft/ProjectAcoustics/labels/question)
     
-## RELEASE UPDATE (April 8, 2021):
+## RELEASE UPDATE (June 7, 2022):
+
 We're happy to announce that a new version of Project Acoustics is available! It includes many bug fixes and new features. The documentation has been updated at http://aka.ms/acoustics with information about new features and beta features. Here's a few highlights:
 
-* Faster bake times and support for larger map sizes
-* Unreal Engine:
-  * Increased control over probe layout with manual probe placement
-  * More control over acoustics metadata with additional probe volumes
-* Unity plus Wwise Integration Beta
+* Deep integration with Unreal Engine 5
+* Local bake support in Unreal Engine
+* Wwise 2021 object pipeline support
+* Faster bake times
+* Support for larger map sizes
+* Size and fidelity improvements for acoustic data file compression
+* Performance improvements for acoustic data lookup at runtime
+* Highly optimized spatializer and reverberator DSP
 * Various bug fixes and performance improvements
-We'll be publishing a blog in the coming weeks with more information about all the new features. You can find version 2.0 from the links below. Thanks for using Project Acoustics!
+
+Check out the [livestream with Epic Games](https://youtu.be/3uocCX0AMIg) discussing the latest release. You can find the version 3.0 downloads from the links below. Thanks for using Project Acoustics!
 
 ## Downloads
 
