@@ -26,14 +26,13 @@ Check out the [livestream with Epic Games](https://youtu.be/3uocCX0AMIg) discuss
 
 * [Unity plug-in Download](https://www.microsoft.com/en-us/download/details.aspx?id=57346)
 * [Unreal+Wwise plug-in Download](https://www.microsoft.com/en-us/download/details.aspx?id=58090)
+* [Unreal Engine 5 plug-in on the Marketplace](https://www.unrealengine.com/marketplace/en-US/product/06cfe91228c04848a0f6d6f7fb7b40f0)
 
 ## Resources
 
-* [The GDC 2019 Session on Project Acoustics](https://www.youtube.com/watch?v=uY4G-GUAQIE&feature=youtu.be&list=PLRs2lXTYCDQ3q9WF-4aO2SgCCCL6rSmA6)
+* [Microsoft Project Acoustics UE5 Marketplace Plugin | Inside Unreal](https://youtu.be/3uocCX0AMIg)
 * [Mixed Reality Dev Days 2020 Session on Project Acoustics with HoloLens 2](https://channel9.msdn.com/Shows/Mixed-Reality/Using-Project-Acoustics-with-HoloLens-2)
-
-### About
-
+* [The GDC 2019 Session on Project Acoustics](https://www.youtube.com/watch?v=uY4G-GUAQIE&feature=youtu.be&list=PLRs2lXTYCDQ3q9WF-4aO2SgCCCL6rSmA6)
 * [Technical overview](https://docs.microsoft.com/en-us/gaming/acoustics/what-is-acoustics)
 * [Making Waves with Triton](https://youtu.be/pIzwo-MxCC8)
 
