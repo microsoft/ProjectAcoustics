@@ -1,6 +1,6 @@
 ## 2022.1 - November 2022
 * Full Unreal Marketplace and Download Center release
-* BREAKING CHANGES - Triton encoder updated to 3.11.01 from 3.02.01, removed Distance Warp design parameter
+* BREAKING CHANGES - Triton encoder updated to 4.0.0 from 3.02.01, removed Distance Warp design parameter
 * General
     * Migrate to VS2022
     * Year-based version scheme
