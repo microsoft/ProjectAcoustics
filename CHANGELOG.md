@@ -1,3 +1,30 @@
+## 2022.1 - November 2022
+* Full Unreal Marketplace and Download Center release
+* BREAKING CHANGES - Triton encoder updated to 3.11.01 from 3.02.01, removed Distance Warp design parameter
+* General
+    * Migrate to VS2022
+    * Year-based version scheme
+* HRTF PROCESSING
+    * Shared results from FLEX listening test in Journal of the Acoustic Engineering Society
+* TRITON
+    * New Voxel-free interpolator. Voxels only kept around for debug visuals. New interpolation API provides various modes to handle queries near geometry appropriately
+    * Visualizer updated to support parameter field interpolation logic
+    * Load multiple ACE files simultaneously at runtime
+    * Moved API inputs and mesh parsing to double precision to support large worlds
+* UNREAL
+    * Spatial reverb support in Unreal Audio plugin
+    * New FLEX-based spatializer plugin
+    * Expose Project Acoustics parameters to MetaSounds
+    * UX for setting new interpolation modes
+    * Support for UE5.1
+    * Support for Android
+    * Fix for portalling support with UE built-in panning
+    * Fix for Python installation (support latest PythonNet)
+    * Fix for custom IRs saving properly
+* WWISE
+    * Spatial reverb plugin
+    * Support Wwise 2022.1
+
 ## 3.0 Patch - June 2022
 * Few critical bug fixes for the 3.0 release
 * UNREAL
