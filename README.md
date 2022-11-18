@@ -6,27 +6,42 @@ This repository provides a communication channel for customers using [Project Ac
     * [Known issues](https://github.com/microsoft/ProjectAcoustics/labels/known%20issue)
     * [Questions](https://github.com/microsoft/ProjectAcoustics/labels/question)
     
-## RELEASE UPDATE (June 7, 2022):
+## RELEASE UPDATE (November 17, 2022):
 
 We're happy to announce that a new version of Project Acoustics is available! It includes many bug fixes and new features. The documentation has been updated at http://aka.ms/acoustics with information about new features and beta features. Here's a few highlights:
 
-* Deep integration with Unreal Engine 5
-* Local bake support in Unreal Engine
-* Wwise 2021 object pipeline support
-* Faster bake times
-* Support for larger map sizes
-* Size and fidelity improvements for acoustic data file compression
-* Performance improvements for acoustic data lookup at runtime
-* Highly optimized spatializer and reverberator DSP
-* Various bug fixes and performance improvements
-
-Check out the [livestream with Epic Games](https://youtu.be/3uocCX0AMIg) discussing the latest release. You can find the version 3.0 downloads from the links below. Thanks for using Project Acoustics!
+## Version 2022.1 - November 2022
+* Full Unreal Marketplace and Download Center release
+* BREAKING CHANGES - Triton encoder updated to 3.11.01 from 3.02.01, removed Distance Warp design parameter
+* General
+    * Migrate to VS2022
+    * Year-based version scheme
+* HRTF PROCESSING
+    * Shared results from FLEX listening test in Journal of the Acoustic Engineering Society
+* TRITON
+    * New Voxel-free interpolator. Voxels only kept around for debug visuals. New interpolation API provides various modes to handle queries near geometry appropriately
+    * Visualizer updated to support parameter field interpolation logic
+    * Load multiple ACE files simultaneously at runtime
+    * Moved API inputs and mesh parsing to double precision to support large worlds
+* UNREAL
+    * Spatial reverb support in Unreal Audio plugin
+    * New FLEX-based spatializer plugin
+    * Expose Project Acoustics parameters to MetaSounds
+    * UX for setting new interpolation modes
+    * Support for UE5.1
+    * Support for Android
+    * Fix for portalling support with UE built-in panning
+    * Fix for Python installation (support latest PythonNet)
+    * Fix for custom IRs saving properly
+* WWISE
+    * Spatial reverb plugin
+    * Support Wwise 2022.1
 
 ## Downloads
 
 * [Unity plug-in Download](https://www.microsoft.com/en-us/download/details.aspx?id=57346)
 * [Unreal+Wwise plug-in Download](https://www.microsoft.com/en-us/download/details.aspx?id=58090)
-* [Unreal Engine 5 plug-in on the Marketplace](https://www.unrealengine.com/marketplace/en-US/product/06cfe91228c04848a0f6d6f7fb7b40f0)
+* [Unreal Engine 5/5.1 plug-in on the Marketplace](https://www.unrealengine.com/marketplace/en-US/product/06cfe91228c04848a0f6d6f7fb7b40f0)
 
 ## Resources
 
